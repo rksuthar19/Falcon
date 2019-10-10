@@ -1,0 +1,13 @@
+---
+output:
+  html_document:
+    keep_md: yes
+---
+=========
+<b>D</b>ynamic Multivariat Data Analysis and Visualization Platform
+
+![logo](tools/help/figures/generic_logo.png)
+
+Built using [Shiny](http://www.rstudio.com/shiny/) by [Rstudio](http://www.rstudio.com/)
+
+
